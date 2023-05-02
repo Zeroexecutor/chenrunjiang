@@ -1,2 +1,4 @@
-# chenrunjiang
-我的青春奋斗
+这是关于一个Django Web作品
+名字叫做ChatQuickly
+基于websocket的在线聊天网站开发
+首次创建2022.11.31
